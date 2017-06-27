@@ -1,0 +1,7 @@
+<name>Advanced Phasers</name>
+<fiid>Advanced Phasers</fiid>
+<cost>250</cost>
+<tags>PHYSICS;ENERGY;WEAPON</tags>
+<preq>phasers</preq>
+<pers>attack add 5; range add 1</pers>
+<ship>attack add 10</ship>

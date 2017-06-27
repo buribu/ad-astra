@@ -1,0 +1,5 @@
+<name>Basic Xenomedicine</name>
+<fiid>Basic Xenomedicine</fiid>
+<cost>200</cost>
+<preq>Xenobiology</preq>
+<tags>MEDICAL;XENOTECH</tags>

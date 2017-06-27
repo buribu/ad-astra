@@ -1,0 +1,17 @@
+You can add new tech here simply by creating a text file with the ".tech" extension.
+
+Markup below is case-sensitive (<name> works, <NAME> does not). Bad markup will usually lead the parser to print a complaint and not load your tech.
+
+Required:
+<name>Foo</name> - display name of tech
+<fiid>Foo</fiid> - fixed internal ID of tech (guaranteed not to change even if display name is changed for some reason, to avoid prereq problems)
+<cost>100</cost> - tech points required to research this tech
+
+Optional:
+<tags>PHYSICS;ENERGY;WEAPON</tags> - semicolon-separated list of tags for this tech (can make up arbitrary ones... so be careful not to typo)
+<pers>attack add 5; range add 1</pers> - semicolon-separated list of effects on characters to whom this tech is applied
+<ship>attack add 10</ship> - semicolon-separated list of effects on ships to which this tech is applied
+<empi>mining add 10</empi> - semicolon-separated list of effects on empires to which this tech is applied
+
+
+For <pers> <ship> and <empi>, valid numerical operators are "add" "subtract" and "set". Numerical values should be integers. 

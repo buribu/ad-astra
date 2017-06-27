@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/14/trunk
+END
+geSession.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/14/trunk/geSession.py
+END
+geGameObjects.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/geGameObjects.py
+END
+geDisplay.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/14/trunk/geDisplay.py
+END
+geMenus.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/14/trunk/geMenus.py
+END
+geMapObjects.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/12/trunk/geMapObjects.py
+END
+geTechnology.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/14/trunk/geTechnology.py
+END
+geUtil.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/14/trunk/geUtil.py
+END
+astra.py
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/14/trunk/astra.py
+END

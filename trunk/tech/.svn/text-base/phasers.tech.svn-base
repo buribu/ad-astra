@@ -1,0 +1,6 @@
+<name>Phasers</name>
+<fiid>Phasers</fiid>
+<cost>100</cost>
+<tags>PHYSICS;ENERGY;WEAPON</tags>
+<pers>attack add 5; range add 1</pers>
+<ship>attack add 10</ship>
